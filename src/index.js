@@ -5,6 +5,8 @@ import SearchBar from './components/search_bar';
 // import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
 
+const API_Key = 'AIzaSyDoChwaCR7ezbYQeMRGdy12lPS2Ok72uOk';
+
 const App = () => {
   return (
     <div>
