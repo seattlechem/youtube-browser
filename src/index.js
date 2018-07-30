@@ -5,6 +5,8 @@ import SearchBar from './components/search_bar';
 // import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
 
+const API_KEY = process.env.REACT_APP_YOUTUBE_KEY
+
 const App = () => {
   return (
     <div>
