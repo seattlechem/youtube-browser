@@ -3,9 +3,11 @@ import React, {Component} from 'react';
 class SearchBar extends Component {
   render() {
     return (
-      <input />
+      <div className="search-bar">
+        <input />
+      </div>
     );
   }
 }
 
-export default SearchBar
+export default SearchBar;
